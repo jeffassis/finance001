@@ -15,6 +15,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+/*Aqui seria onde esconde o H2 class*/
 .sr-only {
     position: absolute;
     width: 1px;
